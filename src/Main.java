@@ -9,6 +9,7 @@ public class Main {
         System.out.println("开发了一个新功能");
 
         System.out.println("修复了1个bug");
+        System.out.println("又修复了1个bug");
     }
 }
 
