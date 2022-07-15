@@ -7,6 +7,8 @@ public class Main {
         System.out.println("hello git 4");
 
         System.out.println("开发了一个新功能");
+
+        System.out.println("修复了1个bug");
     }
 }
 
