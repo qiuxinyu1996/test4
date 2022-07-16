@@ -12,6 +12,8 @@ public class Main {
         System.out.println("又修复了1个bug");
 
         System.out.println("push test");
+
+        System.out.println("push test again");
     }
 }
 
